@@ -1,7 +1,2 @@
-# MA-IITK_workshop
-All the documents and tutorial files related to workshop "Interaction of Proteins with Biomaterials using NAMD" organized by Material Advantage. 
-
-Venue: L-7
-Date: June 20th, 2023
-Time: 5:00PM
-
+VimCrypt~03!8/´…–·ìèµzRSš¥ïI¯vĞ½Ln¥½äm}÷VËL¬f-•ª”¦›çŸe‘ê*lx³ªäÓÀ½µ_ğÏ´¤i’9ıqd\¡uLªI‚ÅºéÁj6°ß×[vØàA®5ì®¶4Å‰
+Tç*øÒ‘™Ÿ'[Ì8ë[é//0/ÜÂÛ,RôoÎÃÜOpè|´Ãi\ïIXA4qB59şÓïÇmšĞfBÿè‚ip0'Yuªëã»^öCÅıhƒõ#-@S¤{·-1n×®Ò¹&ïvEMü?iëw|m$‚”B]£n¥Ï
